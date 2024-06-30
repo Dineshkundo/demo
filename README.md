@@ -1,6 +1,6 @@
 ```
-   apt install python3.8-venv
-   python3 -m venv venv
+     apt install python3.8-venv
+     python3 -m venv venv
      ls
      source venv/bin/activate
      pip install -r requirement.txt 
